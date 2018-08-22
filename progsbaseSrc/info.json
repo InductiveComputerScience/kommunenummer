@@ -1,0 +1,12 @@
+{
+  "name": "kommunenummer",
+  "version": "0.1.1",
+  "organization namespace": "no.inductive.libraries",
+  "scientific namespace": "other.government.norway.countynumbers",
+  "imports": [
+    ["", "no.inductive.idea10.programs", "numbers", "0.1.1"]
+  ],
+  "development imports": [
+    ["", "no.inductive.idea10.programs", "testing", "0.1.1"]
+  ]
+}
